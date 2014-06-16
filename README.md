@@ -1,4 +1,4 @@
 html
 ====
 
-For web page version control
+For web page version control only
